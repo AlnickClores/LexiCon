@@ -80,6 +80,14 @@ const App = () => {
         <p className="text-base my-5 text-[#A1C6EA] md:text-l">{definition}</p>
       </div>
 
+      <div className="text-xs text-center text-yellow-100 md:text-sm">
+        <p>
+          &#x1F6A7; This website is still under development. I will try to add
+          more features soon. &#x1F6A7;
+        </p>
+        <p className="my-3">- Alnick &#x1F60A;</p>
+      </div>
+
       <div>
         <h1 className="fixed bottom-0 left-0 w-full text-center my-5 text-[#A1C6EA] text-sm">
           Made by{" "}
