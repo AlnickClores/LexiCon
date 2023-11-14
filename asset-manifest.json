@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LexiCon/static/css/main.ca7ada80.css",
+    "main.js": "/LexiCon/static/js/main.452a5344.js",
+    "static/js/787.baae9bae.chunk.js": "/LexiCon/static/js/787.baae9bae.chunk.js",
+    "index.html": "/LexiCon/index.html",
+    "main.ca7ada80.css.map": "/LexiCon/static/css/main.ca7ada80.css.map",
+    "main.452a5344.js.map": "/LexiCon/static/js/main.452a5344.js.map",
+    "787.baae9bae.chunk.js.map": "/LexiCon/static/js/787.baae9bae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca7ada80.css",
+    "static/js/main.452a5344.js"
+  ]
+}
